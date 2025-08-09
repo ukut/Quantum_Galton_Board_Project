@@ -11,3 +11,5 @@ The workflow of the project is as follows:
 (i) Introduction
 (ii)The flow of the Quantum Galton Board
 (iii)Steps by steps plan implementation in Qiskit.
+
+The two files here are (i) The summary of the project in PDF (ii) the implementation in Jupiter notebook
